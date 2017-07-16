@@ -1,1 +1,2 @@
-React- YoutubeApp
+> npm install
+> npm start
